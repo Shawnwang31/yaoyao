@@ -1,0 +1,26 @@
+products:
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\Demo$.class
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\Demo.class
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\HelloActor$$anonfun$receive$1.class
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\HelloActor.class
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\SubHelloActor$$anonfun$receive$2.class
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\SubHelloActor.class
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Hi.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\Hi$.class
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Hi.scala -> C:\Users\yijin\Desktop\test\scalaTest\build\classes\scala\main\com\Hi.class
+binary dependencies:
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\rt.jar
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-actor_2.13\2.6.0\bda861175835e18d77f550cd1aababb5d2faf8a\akka-actor_2.13-2.6.0.jar
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> C:\Users\yijin\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.1\1418c956704990564fb9dfac5960647ca54b5a91\scala-library-2.13.1.jar
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Hi.scala -> C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\rt.jar
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Hi.scala -> C:\Users\yijin\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.1\1418c956704990564fb9dfac5960647ca54b5a91\scala-library-2.13.1.jar
+source dependencies:
+external dependencies:
+class names:
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> com.Demo
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> com.Demo$
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> com.HelloActor
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> com.HelloActor$$anonfun$receive$1
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> com.SubHelloActor
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Demo.scala -> com.SubHelloActor$$anonfun$receive$2
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Hi.scala -> com.Hi
+   C:\Users\yijin\Desktop\test\scalaTest\src\main\scala\com\Hi.scala -> com.Hi$

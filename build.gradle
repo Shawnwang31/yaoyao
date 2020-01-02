@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+    id 'scala'
+}
+apply plugin: 'application'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+//MainClass=Hi
+repositories {
+    maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'}
+    mavenCentral()
+}
+
+dependencies {
+    //testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.scala-lang', name: 'scala-library', version: '2.13.1' //添加scala基本库
+    testCompile group: 'org.scalatest', name: 'scalatest_2.11', version: '3.0.5' //添加scala测试相关的依赖
+
+    compile group: 'com.typesafe.akka', name: 'akka-actor_2.13', version: '2.6.0'
+
+}
